@@ -1,6 +1,6 @@
-version=0.6.1
-archivo=FORGE-0.6.1.exe
-sha256=e462b1c1878c74a23a5d5ff9676590fc6c3c0e1e27dba9c5f74c7f22d6a0f05a
+version=0.6.2
+archivo=FORGE-0.6.2.exe
+sha256=c228bba1743714e19d9368febdb36e68192f8d7f6b2ff7dba38a2a61b0dd36ce
 minima=0.5.2
-notas=Las temperaturas del informe de salud salen redondeadas.
-firma=Uqc/SA/YJbQ4oGjM2COqxrhYOKxq/F4ljoPMgM6j1BpXT85i7f0B6BYlainvQMn5p2mDnBhROQpSvTVpyfHXgg==
+notas=Términos de uso nuevos (versión 5). Los drivers de NVIDIA, PawnIO y Microsoft Safety Scanner se instalan con su instalador oficial. Nueva casilla para ocultar datos personales en los informes.
+firma=qPlK0GJWZ4eWmenDWyLMwz1AJtpx9UPFEKKgCgmy+vKDzB4v8m9dA6KG4LK+3TV02vq87rkIIqZIpHwIxaQHRQ==
