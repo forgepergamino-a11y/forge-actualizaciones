@@ -1,6 +1,6 @@
-version=0.5.2
-archivo=FORGE-0.5.2.exe
-sha256=6798f3056454cf1521a23d9c6b0637bf1cb92478a964592a562cf1aa8e95bdc4
-minima=0.5.1
-notas=Las actualizaciones ahora se bajan de GitHub. Arreglar Windows, sensores más firmes en la lectura de salud y códigos de pantallazo azul.
-firma=Hty+2SIfqYimHisVBwOHSHiy+zVworgiQbreWsngK6baH0uCffuUTlh7mfmFKqr5FNlVDvgRvxTdP17TiA4dBA==
+version=0.6.0
+archivo=FORGE-0.6.0.exe
+sha256=452f1fc6b70efd0b3c04a0c07942dd8967e6399d1db4a0d92b52af985a0538b5
+minima=0.5.2
+notas=Rendimiento con Puntaje FORGE, antes y después para el cliente, gráfico en vivo, alarmas, ficha técnica completa y modo pendrive.
+firma=LSW7r151Haqh2rQXqgftQWUTvjtObYLczdvXd6drYfJ8xvgVP0PRFA1G47l6jXDXKeclBbnjInLassw6754k/g==
