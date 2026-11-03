@@ -1,6 +1,6 @@
-version=0.6.0
-archivo=FORGE-0.6.0.exe
-sha256=452f1fc6b70efd0b3c04a0c07942dd8967e6399d1db4a0d92b52af985a0538b5
+version=0.6.1
+archivo=FORGE-0.6.1.exe
+sha256=e462b1c1878c74a23a5d5ff9676590fc6c3c0e1e27dba9c5f74c7f22d6a0f05a
 minima=0.5.2
-notas=Rendimiento con Puntaje FORGE, antes y después para el cliente, gráfico en vivo, alarmas, ficha técnica completa y modo pendrive.
-firma=LSW7r151Haqh2rQXqgftQWUTvjtObYLczdvXd6drYfJ8xvgVP0PRFA1G47l6jXDXKeclBbnjInLassw6754k/g==
+notas=Las temperaturas del informe de salud salen redondeadas.
+firma=Uqc/SA/YJbQ4oGjM2COqxrhYOKxq/F4ljoPMgM6j1BpXT85i7f0B6BYlainvQMn5p2mDnBhROQpSvTVpyfHXgg==
