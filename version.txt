@@ -1,6 +1,6 @@
-version=0.6.3
-archivo=FORGE-0.6.3.exe
-sha256=87e7656528b03bcdf7ae0f9e23a398a8c26408c566d219469116b01dc0a1dc20
+version=0.6.4
+archivo=FORGE-0.6.4.exe
+sha256=170d710de9d198297dd665703bfd48d9905a153dee38ee945ad0f5e94e0080cc
 minima=0.5.2
-notas=Limpieza: nueva casilla «Programas que fallan y no hacen falta» (por ejemplo AMD Ryzen Master) y servicios que quedaron de programas borrados. Siempre muestra la lista antes de borrar.
-firma=3OC+dDiS8BDLaNuXTWqQ1Bfydf88yk4VDpuG2E7YUZqRsG6mIvW9ETJPdSMLgMAdMVKxPjw/F7TijkL9n0vyzA==
+notas=Optimización: mouse y teclado con menos input lag, bloqueo del rastreo de Microsoft e internet más estable.
+firma=D/mdm9xQ10IvWGNw6q0xLkI+P1NCZzqiKEy9GT2Bw0K9bkWhuvQfcG5MgSAv6TI5v2XYHsGTl4jVOH3O4IA72Q==
