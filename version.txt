@@ -1,6 +1,6 @@
-version=0.6.5
-archivo=FORGE-0.6.5.exe
-sha256=d00c78c8eeffd30b12e46389c00b670de56d71840ef6bef4de9cda96ec9e3940
+version=0.6.6
+archivo=FORGE-0.6.6.exe
+sha256=21fad105a395598a4a88b1c8e114351fcd9731b10e46864710885254dc473396
 minima=0.5.2
-notas=Notas de versión al abrir cada versión nueva y botón Buscar actualización siempre a la vista.
-firma=kZTi4URziEI2sYagdYG6AtSNXVHN0KTFDUZXbZxShUBPYqaHZktQ3H0gk0L7nch1n8ZGANY7FlAlJJtw41ZHSA==
+notas=Optimización: Memoria RAM, qué la ocupa y por qué (límite de msconfig, video integrado, compresión y drivers que pierden memoria).
+firma=YtNPw1n6z3prxkB1BPespX9/Q4XUuhK/rv1XZbHtpxo2TwLCuKb5KAdRjBR+h8krnEoH3Mc07B21qRahv0jCwA==
