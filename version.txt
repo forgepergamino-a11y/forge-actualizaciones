@@ -1,6 +1,6 @@
-version=0.6.4
-archivo=FORGE-0.6.4.exe
-sha256=170d710de9d198297dd665703bfd48d9905a153dee38ee945ad0f5e94e0080cc
+version=0.6.5
+archivo=FORGE-0.6.5.exe
+sha256=d00c78c8eeffd30b12e46389c00b670de56d71840ef6bef4de9cda96ec9e3940
 minima=0.5.2
-notas=Optimización: mouse y teclado con menos input lag, bloqueo del rastreo de Microsoft e internet más estable.
-firma=D/mdm9xQ10IvWGNw6q0xLkI+P1NCZzqiKEy9GT2Bw0K9bkWhuvQfcG5MgSAv6TI5v2XYHsGTl4jVOH3O4IA72Q==
+notas=Notas de versión al abrir cada versión nueva y botón Buscar actualización siempre a la vista.
+firma=kZTi4URziEI2sYagdYG6AtSNXVHN0KTFDUZXbZxShUBPYqaHZktQ3H0gk0L7nch1n8ZGANY7FlAlJJtw41ZHSA==
