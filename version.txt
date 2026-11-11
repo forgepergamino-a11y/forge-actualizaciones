@@ -1,6 +1,6 @@
-version=0.6.6
-archivo=FORGE-0.6.6.exe
-sha256=21fad105a395598a4a88b1c8e114351fcd9731b10e46864710885254dc473396
+version=0.7.0
+archivo=FORGE-0.7.0.exe
+sha256=3b7da038ba0c659982e84f05aabb3291ec16318da1b07fcde72a0933a1a0a808
 minima=0.5.2
-notas=Optimización: Memoria RAM, qué la ocupa y por qué (límite de msconfig, video integrado, compresión y drivers que pierden memoria).
-firma=YtNPw1n6z3prxkB1BPespX9/Q4XUuhK/rv1XZbHtpxo2TwLCuKb5KAdRjBR+h8krnEoH3Mc07B21qRahv0jCwA==
+notas=Diseño nuevo con pestañas arriba, perfiles de optimización en un clic, pestaña Sensores con todos los sensores y datos en vivo sobre la prueba de placa de video.
+firma=uf23xLxz9UQ0tVHYLJtx+p+pG1kX4d14zlTUoMWm3K71Xi9O9uWjFXQ61/eHs4mXr3UDuYim6GYtxeZ21ZV+zw==
