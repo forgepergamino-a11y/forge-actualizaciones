@@ -1,6 +1,6 @@
-version=0.7.0
-archivo=FORGE-0.7.0.exe
-sha256=3b7da038ba0c659982e84f05aabb3291ec16318da1b07fcde72a0933a1a0a808
+version=0.8.0
+archivo=FORGE-0.8.0.exe
+sha256=87683c511dbe4fd0792c17f822c1cc3c49110916e19064c43b6706e4106676ce
 minima=0.5.2
-notas=Diseño nuevo con pestañas arriba, perfiles de optimización en un clic, pestaña Sensores con todos los sensores y datos en vivo sobre la prueba de placa de video.
-firma=uf23xLxz9UQ0tVHYLJtx+p+pG1kX4d14zlTUoMWm3K71Xi9O9uWjFXQ61/eHs4mXr3UDuYim6GYtxeZ21ZV+zw==
+notas=Pestaña nueva BIOS: pendrive que arranca solo, respalda la BIOS y la cambia con un perfil por placa (Rendimiento, Equilibrado o Ahorro), con casillas y Restaurar. Términos versión 6.
+firma=If4M9m2iPJy2GCC+pZBo4TSoQR1AULoTPRvoC4l18Lq4a6YW2MhAL7KlsIb0Qu340Q0cRVzO7iGR2xl8BGL+SQ==
