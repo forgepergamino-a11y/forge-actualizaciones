@@ -1,6 +1,6 @@
-version=0.8.0
-archivo=FORGE-0.8.0.exe
-sha256=87683c511dbe4fd0792c17f822c1cc3c49110916e19064c43b6706e4106676ce
+version=0.8.1
+archivo=FORGE-0.8.1.exe
+sha256=cc7d6df7887d678b372cb1b6f6859756406bd19363ed67d4d7ea3ac4ec202f8a
 minima=0.5.2
-notas=Pestaña nueva BIOS: pendrive que arranca solo, respalda la BIOS y la cambia con un perfil por placa (Rendimiento, Equilibrado o Ahorro), con casillas y Restaurar. Términos versión 6.
-firma=If4M9m2iPJy2GCC+pZBo4TSoQR1AULoTPRvoC4l18Lq4a6YW2MhAL7KlsIb0Qu340Q0cRVzO7iGR2xl8BGL+SQ==
+notas=El pendrive de BIOS pasa a ser una aplicación aparte, FORGE BIOS. FORGE vuelve a sus pestañas de siempre. Términos versión 7.
+firma=zoNAe+Nu3pRxS0UbocntQMWQbh1tOfgQmlS6MIOLrXrqcYfcd+Sow6RKIF9KYUA2/r8EpAA4U88zjx1nLovCVA==
